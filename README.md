@@ -10,4 +10,4 @@ I am a passionate student who wants to learn programming, development, and build
 🚀 Goals:  
 - Learn coding (Python, C++)  
 - Work on AI/ML projects  
-- Contribute to open source  
+ 
