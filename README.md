@@ -1,5 +1,5 @@
 # Manthan's-repo-
-# Hi, I'm Manthan 👋
+# Hi, I'm Manthan 
 
 🎓 Branch: (Your Branch, e.g., B.Tech CSE)  
 📅 Year: (e.g., 1st Year)  
